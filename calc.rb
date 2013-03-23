@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 puts "for how many days you want to calculate?"
 days = gets.strip.to_i
 days = 1 if days < 1
